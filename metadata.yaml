@@ -1,0 +1,42 @@
+_repo: La-Comedie-humaine-Volume-13-b-Scenes-de-la-vie-militaire-et-Scenes-de-la-vie-de-campagne_71022
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, Honore de
+    - Saint-Aubin, Horace de
+    - De Balzac, Honoré
+    - Balzac, H. de (Honoré de)
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Honor%C3%A9_de_Balzac
+    - https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac
+description: ''
+gutenberg_issued: '2023-06-22'
+identifiers:
+  gutenberg: '71022'
+language: fr
+pgterms:marc904: https://archive.org/details/1874oeuvrescom13balzuoft/page/n7/mode/2up
+pgterms:marc905: 20160830015610debalzac
+pgterms:marc906: '1868'
+pgterms:marc907: FR
+production_note: Claudine Corbasson, Hans Pieterse and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aFrance :$bMadame veuve Alexandre Houssiaux, $c1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: 'Scènes de la vie militaire: Les Chouans. Une passion dans le désert
+  -- Scènes de la vie de campagne: Le médecin de campagne. Le curé de village.'
+title: 'La Comédie humaine - Volume 13 : $b Scènes de la vie militaire et Scènes de
+  la vie de campagne'
+url: http://www.gutenberg.org/ebooks/71022
